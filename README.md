@@ -1,6 +1,6 @@
 # Deep-Learning
 
-This folder contains Neural Network an Convolutional NN architectures made by Archit Naik and Melih Ekinci as course project in FAU.
+This folder contains Neural Network, CNN, RNN architectures made by Archit Naik and Melih Ekinci as course project in FAU.
 Architectures are made using NumPy.
 
 Neural Network architecture consist of <br>
@@ -14,3 +14,5 @@ On top of the structures in NN, CNN architecture consist of <br>
 a set of initializers (Constant, UniformRandom, Xavier and He), <br>
 advanced optimizers (SGD with Momentum and Adam), <br>
 Flatten, convolution and pooling layers.
+
+RNN in process..
